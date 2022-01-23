@@ -1,4 +1,5 @@
-# hello-world
-my first repository on GitHub
+# web app
 
-## i love :coffee: :pizza: :dance:.
+## FRONTEND APPLICATION
+
+# this app uses HTML/CSS
