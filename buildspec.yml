@@ -2,7 +2,6 @@ version: 0.2
 phases:
   install:
     runtime-versions:
-      tomcat: 8.5
       jave: corrretto 11
   pre_build:
     commands:
