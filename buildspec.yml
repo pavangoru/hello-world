@@ -2,7 +2,7 @@ version: 0.2
 phases:
   install:
     runtime-versions:
-      jave: corrretto 11
+      java: corrretto 11
   pre_build:
     commands:
       - echo Nothing to do in the pre_build phase...
